@@ -1,0 +1,171 @@
+.nav-link
+{
+  font-size: 1.5em;
+}
+
+.navbar-nav
+{
+  line-height: 1em;
+}
+.container-fluid
+{
+  padding: 0;
+}
+
+.carousel img
+{
+  max-height: 700px;
+}
+
+.text-car
+{
+  position: absolute;
+  top: 45%;
+}
+
+.text-car h1
+{
+  font-size: 5em;
+  font-weight: 700;
+}
+
+.text-car p
+{
+  font-size: 1.5em;
+  font-weight: 500;
+}
+
+.navigation
+{
+  position: absolute;
+  top: 0;
+  width: 50px;
+  background: #fff;
+}
+
+.position-absolute
+{
+  position: absolute;
+  z-index: 99999;
+  width: 100%;
+}
+.navbar-brand span
+{
+  color: red;
+}
+
+.writer-image
+{
+  overflow: hidden;
+}
+
+.writer-image img
+{
+  width: 100%;
+}
+.writer-text
+{
+  margin: 5%;
+  word-wrap: break-word;
+}
+
+.writer-text h1
+{
+  font-weight: 700;
+}
+
+.writer-text hr
+{
+  background: black;
+  height: 1%;
+}
+
+.writer-text p
+{
+  font-size: 1.7em;
+}
+
+.btn-block
+{
+  margin-left: 10%;
+  margin-bottom: 4%;
+}
+
+.service-line, .klients-line
+{
+  text-align: center;
+  background-color: #373737;
+  padding: 2% 1% 2% 1%;
+}
+
+.klients-line
+{
+  background: #fefefe;
+  color: #3d3d3d;
+}
+
+.service-line h1
+{
+  color: white;
+}
+
+.block-item, .block-item-center
+{
+  background: #3d3d3d;
+  text-align: center;
+  color: white;
+  word-wrap: break-word;
+  padding: 10% 3% 10% 3%;
+}
+
+.block-item img, .block-item-center img
+{
+  margin-bottom: 5%;
+}
+
+.block-item-center
+{
+  background: #097e89;
+}
+
+.feed
+{
+  background: #3d3d3d;
+  padding: 2%;
+}
+
+.feed-image
+{
+  width: 200px;
+  height: 200px;
+  text-align: right;
+  overflow: visible;
+}
+
+.feed-image img
+{
+  height: 200px;
+  weight: 200px;
+}
+
+.carous-feed
+{
+  margin-top: 3%;
+  text-align: center;
+  color: white;
+  font-size: 1.2em;
+  font-weight: 500;
+}
+
+.feed hr
+{
+  background: white;
+  width: 50%;
+}
+
+.client
+{
+  overflow: hidden;
+  text-align: center;
+  margin-bottom: 5%;
+}
